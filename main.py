@@ -7,7 +7,8 @@ No network, no input, deterministic.
 
 import os
 
-LETTER = "A"
+LETTER = "A"  # A = coffee: the drink you have before you are a person.
+DRINK = "coffee"
 
 
 def main() -> None:
